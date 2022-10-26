@@ -1,5 +1,4 @@
  #!/bin/bash
-
 ################################################################################
 #                              scriptTemplate                                  #
 #                                                                              #
@@ -7,17 +6,17 @@
 # description of the script here.                                              #
 #                                                                              #
 # Change History                                                               #
-# 01/01/2020  Hosney Osman    Original code. This is a template for creating   #
+# 25/10/2022  Hosney Osman  Original code. This is a template for creating     #
 #                           new Bash shell scripts.                            #
 #                           Add new history entries as needed.                 #
 #                                                                              #
 #                                                                              #
 ################################################################################
 ################################################################################
-############590986##############################################################
+################################################################################
 #                                                                              #
-#  Copyright (C) 2007, 2019 Hosney Osman                                       #
-#  eng.hosneyosman@gmail.com                                                   #
+#  Copyright (C) 2022 Hosney Osman                                             #
+#  hosneyosman@outlook.com                                                     #
 #                                                                              #
 #  This program is free software; you can redistribute it and/or modify        #
 #  it under the terms of the GNU General Public License as published by        #
